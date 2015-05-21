@@ -9,12 +9,12 @@ package IHM;
  *
  * @author Anis
  */
-public class Menu extends javax.swing.JPanel {
+public class Game extends javax.swing.JPanel {
 
     /**
-     * Creates new form Menu
+     * Creates new form Game
      */
-    public Menu() {
+    public Game() {
         initComponents();
     }
 
